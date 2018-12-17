@@ -1,4 +1,4 @@
-![Middle Banner](_media/uikit-logo.png  =250x)
+<img src="_media/uikit-logo.png" alt="drawing" style="width:200px;"/>
 
 # uikit-dashboard
 

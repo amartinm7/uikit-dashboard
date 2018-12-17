@@ -1,4 +1,4 @@
-![Middle Banner](_media/uikit-logo.png)
+![Middle Banner](_media/uikit-logo.png  =250x)
 
 # uikit-dashboard
 

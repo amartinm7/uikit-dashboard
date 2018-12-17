@@ -3,6 +3,7 @@
 # uikit-dashboard
 
 - https://getuikit.com/docs/introduction
+- https://github.com/vuikit/vuikit
 
 ## Project setup
 ```
